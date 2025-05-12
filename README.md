@@ -42,8 +42,8 @@ Username: admin
 Password: admin
 📷 Screenshots
 Include screenshots of:
-Login Page
-Dashboard
-Student List Page
-Reports Generated
+Login Page,
+Dashboard,
+Student List Page,
+Reports Generated,
 Vaccination Drive
